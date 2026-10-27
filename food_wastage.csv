@@ -1,0 +1,541 @@
+Date,Day,Meal_Type,Menu,Weather,Attendance,Cooked_Qty(kg),Wasted_Qty(kg)
+2025-10-01,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,364,71.85,1.11
+2025-10-01,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,378,74.88,0.9
+2025-10-01,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,419,82.97,1.53
+2025-10-02,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Sunny,455,90.44,5.89
+2025-10-02,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Sunny,451,90.32,6.46
+2025-10-02,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Sunny,494,98.89,5.6
+2025-10-03,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,385,77.62,0.79
+2025-10-03,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,370,74.4,1.25
+2025-10-03,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,369,73.23,1.85
+2025-10-04,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,455,90.76,5.52
+2025-10-04,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,472,94.61,7.02
+2025-10-04,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,496,99.12,5.33
+2025-10-05,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,425,85.1,3.96
+2025-10-05,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,459,92.57,3.45
+2025-10-05,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,432,86.81,2.68
+2025-10-06,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,499,99.38,5.21
+2025-10-06,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,464,93.53,5.74
+2025-10-06,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,479,96.07,5.86
+2025-10-07,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,442,87.82,3.1
+2025-10-07,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,424,85.02,2.84
+2025-10-07,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,435,86.33,3.24
+2025-10-08,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,378,75.97,2.04
+2025-10-08,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,357,70.86,0.75
+2025-10-08,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,390,77.8,0.88
+2025-10-09,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,390,77.43,1.55
+2025-10-09,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,408,80.89,1.03
+2025-10-09,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,418,83.13,1.8
+2025-10-10,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,401,79.92,2.39
+2025-10-10,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,367,73.42,0.87
+2025-10-10,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,356,71.92,0.94
+2025-10-11,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,500,100.36,6.81
+2025-10-11,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,474,94.56,7.55
+2025-10-11,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,483,96.1,6.4
+2025-10-12,Sunday,Breakfast,French Toast + Omelette + Idly,Sunny,493,99.04,6.98
+2025-10-12,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Sunny,484,97.3,7.11
+2025-10-12,Sunday,Dinner,Dosa + Sambar + Chutney,Sunny,471,93.42,5.89
+2025-10-13,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,420,84.91,4.03
+2025-10-13,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,436,88.14,3.99
+2025-10-13,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,452,91.23,4.33
+2025-10-14,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,460,92.02,3.13
+2025-10-14,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,443,89.13,3.64
+2025-10-14,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,453,91.44,3.84
+2025-10-15,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,421,83.42,3.11
+2025-10-15,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,439,87.28,3.04
+2025-10-15,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,456,92.09,2.92
+2025-10-16,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Cloudy,424,85.76,3.49
+2025-10-16,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Cloudy,428,84.86,3.35
+2025-10-16,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Cloudy,455,90.33,3.66
+2025-10-17,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,404,81.73,2.34
+2025-10-17,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,375,75.43,1.36
+2025-10-17,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,397,79.28,1.61
+2025-10-18,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,465,92.45,5.56
+2025-10-18,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,487,97.51,6.6
+2025-10-18,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,450,89.14,6.14
+2025-10-19,Sunday,Breakfast,French Toast + Omelette + Idly,Sunny,454,91.61,6.94
+2025-10-19,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Sunny,454,90.83,5.3
+2025-10-19,Sunday,Dinner,Dosa + Sambar + Chutney,Sunny,481,95.63,5.16
+2025-10-20,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Rainy,410,81.49,1.59
+2025-10-20,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Rainy,402,79.78,0.95
+2025-10-20,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Rainy,405,80.71,1.47
+2025-10-21,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,356,71.55,2.12
+2025-10-21,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,362,71.52,1.76
+2025-10-21,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,363,72.1,1.0
+2025-10-22,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,428,85.44,3.04
+2025-10-22,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,435,87.75,2.76
+2025-10-22,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,455,90.2,3.88
+2025-10-23,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,351,71.14,2.03
+2025-10-23,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,380,75.33,1.49
+2025-10-23,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,377,76.13,2.14
+2025-10-24,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,474,93.8,5.79
+2025-10-24,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,500,100.57,5.89
+2025-10-24,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,494,99.71,7.96
+2025-10-25,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Rainy,412,81.71,1.3
+2025-10-25,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Rainy,357,71.56,1.49
+2025-10-25,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Rainy,390,77.11,1.67
+2025-10-26,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,417,82.71,2.42
+2025-10-26,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,360,72.7,0.83
+2025-10-26,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,358,71.95,1.06
+2025-10-27,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,486,96.69,6.56
+2025-10-27,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,489,96.96,6.76
+2025-10-27,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,486,97.25,7.59
+2025-10-28,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,492,98.83,5.65
+2025-10-28,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,475,94.26,6.54
+2025-10-28,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,479,95.43,6.92
+2025-10-29,Wednesday,Breakfast,Poori + Channa Masala + Upma,Sunny,450,89.92,7.19
+2025-10-29,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Sunny,456,90.35,5.1
+2025-10-29,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Sunny,466,92.46,5.59
+2025-10-30,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Sunny,465,92.74,5.08
+2025-10-30,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Sunny,484,97.21,6.64
+2025-10-30,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Sunny,491,98.26,6.88
+2025-10-31,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,388,78.46,0.95
+2025-10-31,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,367,72.93,2.03
+2025-10-31,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,420,83.31,1.3
+2025-11-01,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,495,98.69,6.97
+2025-11-01,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,466,93.21,5.36
+2025-11-01,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,453,89.78,5.63
+2025-11-02,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,422,83.41,3.79
+2025-11-02,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,460,92.96,3.09
+2025-11-02,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,448,89.7,3.46
+2025-11-03,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,457,90.55,6.93
+2025-11-03,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,459,91.89,6.9
+2025-11-03,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,487,97.51,6.13
+2025-11-04,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,469,93.53,7.29
+2025-11-04,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,452,91.2,5.13
+2025-11-04,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,465,93.33,5.66
+2025-11-05,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,402,81.35,2.03
+2025-11-05,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,380,76.73,2.27
+2025-11-05,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,372,75.16,0.79
+2025-11-06,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,392,78.96,1.44
+2025-11-06,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,381,75.73,1.95
+2025-11-06,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,363,72.37,0.78
+2025-11-07,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,434,86.2,4.17
+2025-11-07,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,442,88.01,4.04
+2025-11-07,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,434,86.25,3.73
+2025-11-08,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Cloudy,441,87.76,2.75
+2025-11-08,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Cloudy,437,87.1,3.5
+2025-11-08,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Cloudy,454,90.46,2.76
+2025-11-09,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,431,86.36,4.29
+2025-11-09,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,422,83.62,3.24
+2025-11-09,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,440,87.87,4.37
+2025-11-10,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,474,95.6,5.33
+2025-11-10,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,452,90.82,4.55
+2025-11-10,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,484,97.17,7.6
+2025-11-11,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,375,74.73,0.85
+2025-11-11,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,392,78.65,1.83
+2025-11-11,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,365,73.44,1.18
+2025-11-12,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,446,88.85,3.9
+2025-11-12,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,455,90.25,3.47
+2025-11-12,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,444,89.15,4.28
+2025-11-13,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,388,77.41,2.06
+2025-11-13,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,388,77.17,1.44
+2025-11-13,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,391,78.13,1.47
+2025-11-14,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,482,96.35,7.42
+2025-11-14,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,500,100.47,7.01
+2025-11-14,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,468,93.63,6.46
+2025-11-15,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Cloudy,425,85.64,3.86
+2025-11-15,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Cloudy,439,87.25,2.96
+2025-11-15,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Cloudy,421,83.29,4.14
+2025-11-16,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,359,71.71,1.99
+2025-11-16,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,374,75.24,1.33
+2025-11-16,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,401,79.69,1.84
+2025-11-17,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,498,100.32,7.68
+2025-11-17,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,499,99.65,5.51
+2025-11-17,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,494,98.84,5.09
+2025-11-18,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,457,91.31,6.76
+2025-11-18,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,492,98.46,6.57
+2025-11-18,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,470,94.9,7.28
+2025-11-19,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,414,82.65,2.33
+2025-11-19,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,407,82.19,2.04
+2025-11-19,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,410,81.9,2.05
+2025-11-20,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,385,77.53,1.58
+2025-11-20,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,380,75.55,0.87
+2025-11-20,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,386,76.67,1.28
+2025-11-21,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,360,71.28,1.04
+2025-11-21,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,369,74.21,0.84
+2025-11-21,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,402,80.06,1.55
+2025-11-22,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,463,93.27,5.75
+2025-11-22,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,499,99.97,7.08
+2025-11-22,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,498,99.75,6.41
+2025-11-23,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,439,88.31,4.16
+2025-11-23,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,446,89.28,3.99
+2025-11-23,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,458,92.4,3.67
+2025-11-24,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,447,89.37,3.38
+2025-11-24,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,445,89.45,4.19
+2025-11-24,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,428,86.56,3.52
+2025-11-25,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,457,91.53,2.8
+2025-11-25,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,447,88.67,3.48
+2025-11-25,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,423,84.12,3.07
+2025-11-26,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,440,87.68,4.17
+2025-11-26,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,437,87.9,4.1
+2025-11-26,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,436,87.87,3.46
+2025-11-27,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,419,82.9,2.41
+2025-11-27,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,378,75.9,1.94
+2025-11-27,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,355,71.51,2.07
+2025-11-28,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,451,90.44,5.17
+2025-11-28,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,480,96.34,6.45
+2025-11-28,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,463,92.53,5.34
+2025-11-29,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Cloudy,430,86.21,4.25
+2025-11-29,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Cloudy,427,85.96,2.86
+2025-11-29,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Cloudy,439,87.02,2.66
+2025-11-30,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,456,91.55,4.5
+2025-11-30,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,445,89.88,3.05
+2025-11-30,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,457,91.78,3.9
+2025-12-01,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,494,99.34,7.5
+2025-12-01,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,488,98.21,7.26
+2025-12-01,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,486,97.77,5.91
+2025-12-02,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,443,87.74,3.77
+2025-12-02,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,420,84.7,3.93
+2025-12-02,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,426,85.07,3.17
+2025-12-03,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,429,85.67,3.83
+2025-12-03,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,437,87.63,4.24
+2025-12-03,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,450,89.93,4.18
+2025-12-04,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,384,76.44,1.14
+2025-12-04,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,361,71.76,1.36
+2025-12-04,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,409,81.94,1.91
+2025-12-05,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,421,84.19,3.07
+2025-12-05,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,451,89.62,4.12
+2025-12-05,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,441,87.76,3.68
+2025-12-06,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Cloudy,455,90.02,4.41
+2025-12-06,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Cloudy,425,84.48,3.22
+2025-12-06,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Cloudy,455,91.52,4.01
+2025-12-07,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,412,82.3,0.85
+2025-12-07,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,387,76.84,1.83
+2025-12-07,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,389,78.13,1.36
+2025-12-08,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Rainy,417,83.09,2.49
+2025-12-08,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Rainy,420,83.66,2.01
+2025-12-08,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Rainy,384,76.41,1.12
+2025-12-09,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,374,74.43,1.85
+2025-12-09,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,373,73.98,1.83
+2025-12-09,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,385,77.45,2.29
+2025-12-10,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,386,78.16,2.08
+2025-12-10,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,387,76.85,1.04
+2025-12-10,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,351,70.62,0.88
+2025-12-11,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Sunny,453,90.71,6.43
+2025-12-11,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Sunny,458,91.88,6.67
+2025-12-11,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Sunny,456,91.95,6.18
+2025-12-12,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,450,89.88,3.03
+2025-12-12,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,423,84.1,3.97
+2025-12-12,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,427,86.04,3.27
+2025-12-13,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,486,97.46,5.03
+2025-12-13,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,459,92.42,7.25
+2025-12-13,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,455,91.99,4.93
+2025-12-14,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,458,91.79,3.89
+2025-12-14,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,453,90.36,4.35
+2025-12-14,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,439,88.52,4.41
+2025-12-15,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,456,91.44,3.86
+2025-12-15,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,426,86.1,2.94
+2025-12-15,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,433,86.13,2.72
+2025-12-16,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,461,92.3,5.05
+2025-12-16,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,476,95.1,6.45
+2025-12-16,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,468,92.67,5.43
+2025-12-17,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,449,88.94,3.08
+2025-12-17,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,436,87.78,3.73
+2025-12-17,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,432,86.25,3.53
+2025-12-18,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,369,74.62,1.98
+2025-12-18,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,359,70.92,1.83
+2025-12-18,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,386,77.08,1.49
+2025-12-19,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,445,89.89,3.6
+2025-12-19,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,451,90.08,3.78
+2025-12-19,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,447,89.87,3.78
+2025-12-20,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,455,90.46,6.35
+2025-12-20,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,486,97.37,4.93
+2025-12-20,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,498,99.94,5.81
+2025-12-21,Sunday,Breakfast,French Toast + Omelette + Idly,Sunny,498,100.11,6.42
+2025-12-21,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Sunny,491,98.08,5.72
+2025-12-21,Sunday,Dinner,Dosa + Sambar + Chutney,Sunny,487,97.27,7.24
+2025-12-22,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,480,95.7,5.74
+2025-12-22,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,492,97.61,5.35
+2025-12-22,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,476,95.59,5.61
+2025-12-23,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,455,90.07,2.86
+2025-12-23,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,436,86.85,4.29
+2025-12-23,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,445,89.73,4.17
+2025-12-24,Wednesday,Breakfast,Poori + Channa Masala + Upma,Sunny,492,99.14,6.33
+2025-12-24,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Sunny,453,89.98,5.48
+2025-12-24,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Sunny,498,99.6,6.3
+2025-12-25,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Sunny,463,92.13,4.97
+2025-12-25,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Sunny,468,93.48,6.63
+2025-12-25,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Sunny,457,90.46,6.23
+2025-12-26,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,495,98.32,6.54
+2025-12-26,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,485,96.82,5.49
+2025-12-26,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,457,91.32,4.89
+2025-12-27,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,481,97.07,5.7
+2025-12-27,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,495,98.55,7.4
+2025-12-27,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,480,95.49,6.35
+2025-12-28,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,432,87.24,3.5
+2025-12-28,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,428,86.33,3.07
+2025-12-28,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,446,88.88,4.07
+2025-12-29,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,420,83.57,3.01
+2025-12-29,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,457,91.56,3.96
+2025-12-29,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,429,85.69,3.4
+2025-12-30,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,455,91.53,3.44
+2025-12-30,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,440,88.74,4.4
+2025-12-30,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,435,87.14,3.02
+2025-12-31,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,422,84.04,3.32
+2025-12-31,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,444,88.57,3.83
+2025-12-31,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,429,85.79,2.64
+2026-01-01,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,392,79.14,2.18
+2026-01-01,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,406,80.4,2.27
+2026-01-01,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,351,70.64,1.29
+2026-01-02,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,369,72.95,1.87
+2026-01-02,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,383,76.28,1.82
+2026-01-02,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,360,72.7,1.97
+2026-01-03,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Rainy,398,80.51,1.81
+2026-01-03,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Rainy,412,83.14,0.89
+2026-01-03,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Rainy,358,71.07,1.68
+2026-01-04,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,434,87.29,3.38
+2026-01-04,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,426,85.72,3.78
+2026-01-04,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,426,85.09,3.73
+2026-01-05,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,452,90.05,4.65
+2026-01-05,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,472,94.15,5.12
+2026-01-05,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,483,96.42,6.79
+2026-01-06,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,460,91.35,6.24
+2026-01-06,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,474,95.04,5.44
+2026-01-06,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,487,96.69,6.17
+2026-01-07,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,449,89.31,2.7
+2026-01-07,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,449,90.6,3.95
+2026-01-07,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,430,85.15,4.16
+2026-01-08,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,388,77.88,1.44
+2026-01-08,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,382,76.31,1.22
+2026-01-08,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,399,80.51,0.98
+2026-01-09,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,456,90.92,3.27
+2026-01-09,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,438,86.64,4.04
+2026-01-09,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,445,88.55,3.66
+2026-01-10,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Rainy,356,72.02,1.79
+2026-01-10,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Rainy,386,77.75,1.14
+2026-01-10,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Rainy,395,78.44,1.08
+2026-01-11,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,428,85.86,4.13
+2026-01-11,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,422,84.02,3.26
+2026-01-11,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,457,91.13,2.97
+2026-01-12,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,440,88.49,2.97
+2026-01-12,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,428,86.17,4.1
+2026-01-12,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,443,88.66,4.28
+2026-01-13,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,466,94.03,7.36
+2026-01-13,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,468,94.09,5.66
+2026-01-13,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,457,91.34,4.77
+2026-01-14,Wednesday,Breakfast,Poori + Channa Masala + Upma,Sunny,493,99.05,7.86
+2026-01-14,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Sunny,485,96.73,7.13
+2026-01-14,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Sunny,450,89.53,4.81
+2026-01-15,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Cloudy,436,87.37,4.06
+2026-01-15,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Cloudy,443,87.82,3.05
+2026-01-15,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Cloudy,421,84.44,4.13
+2026-01-16,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,459,91.24,2.85
+2026-01-16,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,449,90.62,3.27
+2026-01-16,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,446,88.43,2.73
+2026-01-17,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,469,94.79,5.07
+2026-01-17,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,465,93.77,5.07
+2026-01-17,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,479,95.54,7.5
+2026-01-18,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,419,83.64,2.08
+2026-01-18,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,369,74.57,1.72
+2026-01-18,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,412,82.63,2.38
+2026-01-19,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,422,84.78,2.91
+2026-01-19,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,448,90.5,4.26
+2026-01-19,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,426,86.16,3.22
+2026-01-20,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,395,78.12,1.21
+2026-01-20,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,365,73.9,1.96
+2026-01-20,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,361,72.53,1.66
+2026-01-21,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,352,69.5,1.16
+2026-01-21,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,366,73.77,1.04
+2026-01-21,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,420,83.41,1.19
+2026-01-22,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Sunny,471,94.75,6.98
+2026-01-22,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Sunny,488,96.61,7.32
+2026-01-22,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Sunny,459,92.78,6.14
+2026-01-23,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,457,91.72,4.66
+2026-01-23,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,450,89.72,6.61
+2026-01-23,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,487,97.05,5.36
+2026-01-24,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,458,92.08,6.06
+2026-01-24,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,497,98.53,6.25
+2026-01-24,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,473,94.63,5.04
+2026-01-25,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,378,76.49,0.83
+2026-01-25,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,416,82.8,1.89
+2026-01-25,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,353,69.72,1.37
+2026-01-26,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,447,89.77,3.57
+2026-01-26,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,448,88.75,2.81
+2026-01-26,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,458,90.9,2.96
+2026-01-27,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,420,84.42,1.49
+2026-01-27,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,417,82.99,1.67
+2026-01-27,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,405,80.2,1.93
+2026-01-28,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,420,84.44,1.21
+2026-01-28,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,407,82.18,1.5
+2026-01-28,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,408,81.4,2.0
+2026-01-29,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Cloudy,447,89.03,3.12
+2026-01-29,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Cloudy,429,86.17,3.4
+2026-01-29,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Cloudy,425,85.66,2.73
+2026-01-30,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,497,99.88,7.43
+2026-01-30,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,485,96.12,7.56
+2026-01-30,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,485,96.66,5.19
+2026-01-31,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Cloudy,447,90.14,4.0
+2026-01-31,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Cloudy,438,87.8,3.25
+2026-01-31,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Cloudy,456,91.21,3.02
+2026-02-01,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,434,87.49,3.24
+2026-02-01,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,455,90.74,4.11
+2026-02-01,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,456,90.65,3.5
+2026-02-02,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Rainy,353,70.82,1.64
+2026-02-02,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Rainy,384,75.86,1.17
+2026-02-02,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Rainy,389,78.64,1.34
+2026-02-03,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,459,91.93,5.7
+2026-02-03,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,459,92.28,7.3
+2026-02-03,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,455,91.49,5.17
+2026-02-04,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,449,89.48,3.35
+2026-02-04,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,440,88.55,3.66
+2026-02-04,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,425,85.77,2.84
+2026-02-05,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,356,71.55,1.1
+2026-02-05,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,404,80.77,1.52
+2026-02-05,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,384,76.23,1.54
+2026-02-06,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,447,88.62,3.86
+2026-02-06,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,457,91.37,3.96
+2026-02-06,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,422,83.84,4.17
+2026-02-07,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,450,89.41,7.01
+2026-02-07,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,499,99.07,5.71
+2026-02-07,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,470,93.24,6.05
+2026-02-08,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,431,85.46,3.47
+2026-02-08,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,434,86.8,4.05
+2026-02-08,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,442,87.54,4.14
+2026-02-09,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,477,94.44,7.33
+2026-02-09,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,470,94.15,6.33
+2026-02-09,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,495,99.28,5.83
+2026-02-10,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,421,85.13,2.85
+2026-02-10,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,459,91.72,4.02
+2026-02-10,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,443,87.78,4.12
+2026-02-11,Wednesday,Breakfast,Poori + Channa Masala + Upma,Sunny,477,95.58,6.28
+2026-02-11,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Sunny,475,95.74,6.93
+2026-02-11,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Sunny,464,92.47,5.09
+2026-02-12,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,364,72.86,1.01
+2026-02-12,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,394,78.5,2.29
+2026-02-12,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,368,73.07,0.94
+2026-02-13,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,461,92.4,6.73
+2026-02-13,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,491,97.35,7.65
+2026-02-13,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,490,97.99,7.12
+2026-02-14,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Rainy,407,81.76,2.26
+2026-02-14,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Rainy,391,78.93,1.78
+2026-02-14,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Rainy,369,73.68,1.43
+2026-02-15,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,388,78.19,1.71
+2026-02-15,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,395,79.01,1.28
+2026-02-15,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,407,80.48,1.4
+2026-02-16,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,424,85.09,4.22
+2026-02-16,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,425,85.23,3.42
+2026-02-16,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,449,89.96,4.42
+2026-02-17,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,355,70.9,1.86
+2026-02-17,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,374,74.44,1.45
+2026-02-17,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,369,74.72,1.42
+2026-02-18,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,425,85.01,2.84
+2026-02-18,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,435,87.42,4.36
+2026-02-18,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,453,90.65,3.01
+2026-02-19,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Cloudy,438,87.37,3.97
+2026-02-19,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Cloudy,458,90.7,3.87
+2026-02-19,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Cloudy,441,87.33,2.79
+2026-02-20,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,399,79.37,1.94
+2026-02-20,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,369,73.47,1.59
+2026-02-20,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,368,74.43,1.21
+2026-02-21,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Rainy,400,79.26,1.92
+2026-02-21,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Rainy,360,71.62,1.26
+2026-02-21,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Rainy,392,79.03,1.85
+2026-02-22,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,417,82.59,1.93
+2026-02-22,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,415,82.72,1.43
+2026-02-22,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,373,75.5,1.27
+2026-02-23,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Cloudy,432,85.85,2.81
+2026-02-23,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Cloudy,424,84.39,3.86
+2026-02-23,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Cloudy,452,90.94,4.25
+2026-02-24,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,354,71.12,1.96
+2026-02-24,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,366,73.39,0.96
+2026-02-24,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,373,75.26,1.91
+2026-02-25,Wednesday,Breakfast,Poori + Channa Masala + Upma,Sunny,496,99.08,6.17
+2026-02-25,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Sunny,493,99.04,7.83
+2026-02-25,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Sunny,489,97.37,7.06
+2026-02-26,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Cloudy,434,86.87,3.14
+2026-02-26,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Cloudy,450,90.81,3.08
+2026-02-26,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Cloudy,456,92.17,3.62
+2026-02-27,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,444,88.81,3.41
+2026-02-27,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,430,86.63,3.99
+2026-02-27,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,428,86.35,2.68
+2026-02-28,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Cloudy,443,88.71,2.84
+2026-02-28,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Cloudy,453,91.3,3.26
+2026-02-28,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Cloudy,430,85.55,4.12
+2026-03-01,Sunday,Breakfast,French Toast + Omelette + Idly,Sunny,477,94.58,7.31
+2026-03-01,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Sunny,478,96.37,7.51
+2026-03-01,Sunday,Dinner,Dosa + Sambar + Chutney,Sunny,476,94.31,6.14
+2026-03-02,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,474,95.79,5.87
+2026-03-02,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,451,89.84,4.76
+2026-03-02,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,495,99.3,7.32
+2026-03-03,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,452,89.97,6.74
+2026-03-03,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,494,99.46,7.24
+2026-03-03,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,480,95.9,4.81
+2026-03-04,Wednesday,Breakfast,Poori + Channa Masala + Upma,Sunny,451,89.71,6.73
+2026-03-04,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Sunny,485,97.88,6.68
+2026-03-04,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Sunny,477,94.62,5.55
+2026-03-05,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Cloudy,427,84.5,3.24
+2026-03-05,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Cloudy,459,91.71,2.95
+2026-03-05,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Cloudy,451,90.39,2.74
+2026-03-06,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,380,76.44,1.21
+2026-03-06,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,350,70.23,1.04
+2026-03-06,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,403,79.97,1.87
+2026-03-07,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Rainy,396,78.34,1.61
+2026-03-07,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Rainy,414,83.37,1.68
+2026-03-07,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Rainy,352,70.18,1.36
+2026-03-08,Sunday,Breakfast,French Toast + Omelette + Idly,Rainy,399,80.76,1.22
+2026-03-08,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Rainy,352,70.11,0.8
+2026-03-08,Sunday,Dinner,Dosa + Sambar + Chutney,Rainy,380,76.47,1.73
+2026-03-09,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Rainy,392,77.67,1.32
+2026-03-09,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Rainy,393,79.23,1.07
+2026-03-09,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Rainy,409,82.76,1.62
+2026-03-10,Tuesday,Breakfast,Dosa + Semiya + Chutney,Sunny,458,90.73,6.65
+2026-03-10,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Sunny,479,94.87,5.32
+2026-03-10,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Sunny,500,99.4,5.09
+2026-03-11,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,452,90.2,4.18
+2026-03-11,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,450,89.51,4.03
+2026-03-11,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,432,85.97,4.06
+2026-03-12,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Sunny,491,97.86,5.26
+2026-03-12,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Sunny,473,94.47,5.86
+2026-03-12,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Sunny,478,96.39,5.94
+2026-03-13,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Sunny,481,96.58,5.89
+2026-03-13,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Sunny,483,96.13,5.04
+2026-03-13,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Sunny,477,94.56,6.44
+2026-03-14,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Sunny,484,96.39,5.12
+2026-03-14,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Sunny,470,94.32,5.58
+2026-03-14,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Sunny,488,98.04,5.39
+2026-03-15,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,442,88.29,3.93
+2026-03-15,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,442,88.63,3.43
+2026-03-15,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,460,92.96,4.55
+2026-03-16,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Sunny,492,98.68,6.01
+2026-03-16,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Sunny,497,99.76,7.84
+2026-03-16,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Sunny,459,92.5,6.51
+2026-03-17,Tuesday,Breakfast,Dosa + Semiya + Chutney,Cloudy,422,83.65,2.9
+2026-03-17,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Cloudy,443,88.32,4.33
+2026-03-17,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Cloudy,422,84.61,3.69
+2026-03-18,Wednesday,Breakfast,Poori + Channa Masala + Upma,Cloudy,443,88.49,2.79
+2026-03-18,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Cloudy,428,85.66,3.25
+2026-03-18,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Cloudy,437,86.9,2.8
+2026-03-19,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Rainy,373,74.6,1.32
+2026-03-19,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Rainy,365,72.52,1.1
+2026-03-19,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Rainy,407,80.83,1.8
+2026-03-20,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Rainy,412,81.8,1.04
+2026-03-20,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Rainy,359,71.7,2.01
+2026-03-20,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Rainy,406,82.19,2.15
+2026-03-21,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Cloudy,442,88.82,3.64
+2026-03-21,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Cloudy,438,88.38,4.16
+2026-03-21,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Cloudy,460,91.35,3.4
+2026-03-22,Sunday,Breakfast,French Toast + Omelette + Idly,Sunny,457,92.37,6.81
+2026-03-22,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Sunny,465,93.58,4.75
+2026-03-22,Sunday,Dinner,Dosa + Sambar + Chutney,Sunny,485,97.14,6.22
+2026-03-23,Monday,Breakfast,Pongal + Idly + Medu Vada + Sambar,Rainy,366,73.42,0.86
+2026-03-23,Monday,Lunch,Chicken-65 + Rice + Rasam + Kootu,Rainy,389,77.6,1.89
+2026-03-23,Monday,Dinner,Chapathi + Paneer Masala + Variety Rice,Rainy,411,82.25,2.09
+2026-03-24,Tuesday,Breakfast,Dosa + Semiya + Chutney,Rainy,359,71.05,1.16
+2026-03-24,Tuesday,Lunch,Fish Fry + Rice + Rasam + Veg Curry,Rainy,359,71.7,1.69
+2026-03-24,Tuesday,Dinner,Idiyappam + Chicken Gravy + Veg Gravy,Rainy,394,78.06,2.07
+2026-03-25,Wednesday,Breakfast,Poori + Channa Masala + Upma,Rainy,373,75.14,0.95
+2026-03-25,Wednesday,Lunch,Mutton Chettinad + Ghee Rice + Rasam,Rainy,414,83.62,0.93
+2026-03-25,Wednesday,Dinner,White Sauce Pasta + Chapathi + Dal,Rainy,365,73.04,1.17
+2026-03-26,Thursday,Breakfast,Dosa + Rava Kitchadi + Tomato Thokku,Sunny,470,94.87,5.39
+2026-03-26,Thursday,Lunch,Pepper Chicken + Dalcha + Rasam,Sunny,483,97.39,7.34
+2026-03-26,Thursday,Dinner,Dosa + Mixed Veg Gravy + Mint Rice,Sunny,466,92.59,7.29
+2026-03-27,Friday,Breakfast,Idly + Kadalai Kari + Semiya,Cloudy,428,85.85,3.63
+2026-03-27,Friday,Lunch,Egg Roast + Rice + Moor Kulambu,Cloudy,425,85.01,2.84
+2026-03-27,Friday,Dinner,Veg Biryani + Chapathi + Raitha,Cloudy,457,90.71,3.92
+2026-03-28,Saturday,Breakfast,Sweet Pongal + Dosa + Medu Vada,Rainy,393,79.29,1.69
+2026-03-28,Saturday,Lunch,Chilly Chicken + Veg Dalcha + Rasam,Rainy,353,69.76,2.02
+2026-03-28,Saturday,Dinner,Parotta + Chicken Gravy + Variety Rice,Rainy,383,76.9,1.95
+2026-03-29,Sunday,Breakfast,French Toast + Omelette + Idly,Cloudy,459,92.08,3.68
+2026-03-29,Sunday,Lunch,Mushroom Gravy + Rice + Payasam,Cloudy,460,92.09,3.95
+2026-03-29,Sunday,Dinner,Dosa + Sambar + Chutney,Cloudy,439,87.77,4.05
